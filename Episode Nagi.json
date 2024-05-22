@@ -148,6 +148,54 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/HQirH0m"
       }
+    },
+    "19": {
+      "title": "Death's Counterattack",
+      "volume": "4",
+      "last_updated": "1716338634",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ZnYHjyn"
+      }
+    },
+    "20": {
+      "title": "Ignorance",
+      "volume": "5",
+      "last_updated": "1716338688",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/u1V9p6s"
+      }
+    },
+    "21": {
+      "title": "Overcoming Weakness",
+      "volume": "5",
+      "last_updated": "1716338749",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/sSGUpo5"
+      }
+    },
+    "22": {
+      "title": "'Kay",
+      "volume": "5",
+      "last_updated": "1716338845",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/2ksQtol"
+      }
+    },
+    "23": {
+      "title": "Final",
+      "volume": "5",
+      "last_updated": "1716338937",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/BFYGiTi"
+      }
+    },
+    "22.5": {
+      "title": "Letter",
+      "volume": "5",
+      "last_updated": "1716338903",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ykyqryW"
+      }
     }
   }
 }
