@@ -124,6 +124,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/C0QBisa"
       }
+    },
+    "16": {
+      "title": "Utter Trash",
+      "volume": "4",
+      "last_updated": "1716337929",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/k7CpJ89"
+      }
+    },
+    "17": {
+      "title": "Fake",
+      "volume": "4",
+      "last_updated": "1716337959",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/qvyq0Zf"
+      }
+    },
+    "18": {
+      "title": "Bye Bye, Egotist",
+      "volume": "4",
+      "last_updated": "1716338032",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/HQirH0m"
+      }
     }
   }
 }
