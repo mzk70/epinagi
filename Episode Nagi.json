@@ -76,6 +76,54 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/J6dSz7l"
       }
+    },
+    "10": {
+      "title": "Sprout",
+      "volume": "3",
+      "last_updated": "1716337640",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/IgG8fce"
+      }
+    },
+    "11": {
+      "title": "Light",
+      "volume": "3",
+      "last_updated": "1716337659",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/IiuL67g"
+      }
+    },
+    "12": {
+      "title": "Change",
+      "volume": "3",
+      "last_updated": "1716337692",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/5lldWXl"
+      }
+    },
+    "13": {
+      "title": "I Never Thought...",
+      "volume": "3",
+      "last_updated": "1716337725",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ebHhLpD"
+      }
+    },
+    "14": {
+      "title": "Single-minded",
+      "volume": "3",
+      "last_updated": "1716337762",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/mIVRC1f"
+      }
+    },
+    "15": {
+      "title": "True Nature",
+      "volume": "4",
+      "last_updated": "1716337789",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/C0QBisa"
+      }
     }
   }
 }
