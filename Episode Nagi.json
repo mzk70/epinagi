@@ -198,7 +198,7 @@
       }
     },
     "25": {
-      "title": "Stakes (1st Half)",
+      "title": "Stakes (Part 1)",
       "volume": "5",
       "last_updated": "1720452238",
       "groups": {
@@ -219,6 +219,14 @@
       "last_updated": "1718162246",
       "groups": {
         "Blue Clock Scans": "/proxy/api/imgur/chapter/a3aEYtx"
+      }
+    },
+    "25.5": {
+      "title": "Stakes (Part 2)",
+      "volume": "5",
+      "last_updated": "1723043366",
+      "groups": {
+        "": "/proxy/api/catbox/chapter/axnmx7/"
       }
     }
   }
